@@ -7,7 +7,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers(opt =>
 {
     opt.Filters.Add(new MyLoggingFilter());// This is a filter which Runs befor and after any request to controllers
-    opt.Filters.Add(new MyLoggingFilter2());// You can add as many as filters you like to your controllers, (the order is important)
+    opt.Filters.Add(new MyLoggingFilter2());// You can add as many as filters you like to your controllers, (the order is important) . You can add order here as well.
+
+
+
+
+    opt.Filters.Add(new MySampleResourceFilterAttribute("Global"));// Ass in Filters First filter is authorization and secnd one is Resource filter. we dont have Authorization so it runs first of all.
+    opt.Filters.Add(new MySampleActionFilterAttribute("Action"));
+    opt.Filters.Add(new MySampleExceptionFilterAttribute("Exception"));
 
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

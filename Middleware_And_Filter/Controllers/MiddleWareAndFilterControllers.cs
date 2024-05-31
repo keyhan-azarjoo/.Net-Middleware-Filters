@@ -9,6 +9,7 @@ namespace Middleware_And_Filter.Controllers
     {
 
         [HttpGet]
+        //[MySampleResourceFilter("Action")]
         public async Task<IActionResult> Get() // MyLogging Middleware will run befor and after hitting the controller
         {
 
