@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\mysampleresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\mysampleresultfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\mysampleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\mysampleexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\controllers\\middlewareandfiltercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:controllers\\middlewareandfiltercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\mysampleresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\mysampleresourcefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\myloggingfilter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\myloggingfilter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\mysampleactionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\mysampleactionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\myloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\myloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\myloggingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\myloggingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|c:\\code\\training\\asp\\cookieauthentication and jwtauthentication\\.net-middleware-filters\\middleware_and_filter\\filters\\myloggingattributeasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47379AD8-FB95-4FA6-BF01-BB7A39A96C0B}|Middleware_And_Filter.csproj|solutionrelative:filters\\myloggingattributeasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T10:00:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:06.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySampleResultFilterAttribute.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleResultFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\MySampleResultFilterAttribute.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleResultFilterAttribute.cs",
+              "RelativeToolTip": "Filters\\MySampleResultFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:55:47.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySampleExceptionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\MySampleExceptionFilterAttribute.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleExceptionFilterAttribute.cs",
+              "RelativeToolTip": "Filters\\MySampleExceptionFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySampleActionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleActionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\MySampleActionFilterAttribute.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleActionFilterAttribute.cs",
+              "RelativeToolTip": "Filters\\MySampleActionFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:33.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySampleResourceFilterAttribute.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleResourceFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\MySampleResourceFilterAttribute.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MySampleResourceFilterAttribute.cs",
+              "RelativeToolTip": "Filters\\MySampleResourceFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:27.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLoggingFilter2.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingFilter2.cs",
+              "RelativeDocumentMoniker": "Filters\\MyLoggingFilter2.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingFilter2.cs",
+              "RelativeToolTip": "Filters\\MyLoggingFilter2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyLoggingFilter.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\MyLoggingFilter.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingFilter.cs",
+              "RelativeToolTip": "Filters\\MyLoggingFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:20:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyLoggingAttributeAsync.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingAttributeAsync.cs",
+              "RelativeDocumentMoniker": "Filters\\MyLoggingAttributeAsync.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingAttributeAsync.cs",
+              "RelativeToolTip": "Filters\\MyLoggingAttributeAsync.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:19:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyLoggingAttribute.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingAttribute.cs",
+              "RelativeDocumentMoniker": "Filters\\MyLoggingAttribute.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Filters\\MyLoggingAttribute.cs",
+              "RelativeToolTip": "Filters\\MyLoggingAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:19:45.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiddleWareAndFilterControllers.cs",
+              "DocumentMoniker": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Controllers\\MiddleWareAndFilterControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\MiddleWareAndFilterControllers.cs",
+              "ToolTip": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Controllers\\MiddleWareAndFilterControllers.cs",
+              "RelativeToolTip": "Controllers\\MiddleWareAndFilterControllers.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:19:26.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

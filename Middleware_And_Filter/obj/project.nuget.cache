@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNrCHCU/jjHEd+sEDb3u6z/gFpkeI0c1n5C0YHui6rCPRquKkOdf/LYLDsdIXX8V38D8/CnFXrSxgwZEoCsFAw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\.Net-Middleware-Filters\\Middleware_And_Filter\\Middleware_And_Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

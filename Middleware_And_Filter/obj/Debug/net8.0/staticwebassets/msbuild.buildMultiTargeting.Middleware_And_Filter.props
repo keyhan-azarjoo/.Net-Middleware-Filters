@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Middleware_And_Filter.props" />
+</Project>
